@@ -2,7 +2,7 @@ h1{
     text-align: center;
     }
     body{
-    
+      background-image: "http://a21.com.mx/sites/default/files/field/image/united%20MAX_0.jpg";
       background-color: rgb(148, 255, 214);  
     }
     form{
@@ -16,7 +16,7 @@ h1{
     background-color:blue;
     width: 120px;
     height: 60px;
-    color: rgba(255, 255, 255, 0.9);
+    color: rgba(255, 255, 255, 0.9) !important;
       padding: 0.5em 1.2em;
       background: #318aac;
       border: 2px solid;
@@ -28,7 +28,7 @@ h1{
     
     button:hover{
     
-        color: rgba(255, 255, 255, 1);
+        color: rgba(255, 255, 255, 1) !important;
         box-shadow: 0 4px 16px rgb(218, 200, 129);
         transition: all 0.2s ease;
     }
